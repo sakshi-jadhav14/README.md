@@ -1,48 +1,32 @@
-Linux Network Investigation
+AWS Practical Tasks
 
-Objective
+This repository contains my AWS practical tasks, hands-on labs, and learning activities completed during my AWS and Cloud Computing training.
 
-To investigate the Linux machine's network configuration and analyze its IPv4 address using Linux commands through PuTTY.
+The uploaded PDF files contain the task instructions, commands, configurations, screenshots, and practical work completed for different AWS and cloud-related topics.
 
-Tasks
+📚 Topics
 
-Task 1 – Linux IP Investigation
-
-Commands used:
-
-hostname -I
-ip addr
-ip route
-cat /etc/resolv.conf
-
-These commands identify:
-
-- IP address
-- Network interface
-- Default gateway
-- DNS information
-- Network configuration
-
-Task 2 – IPv4 Address Analysis
-
-Command:
-
-ip -4 addr
-
-The IPv4 address is divided into four octets.
-
-Example:
-
-192.168.1.10
-
-Octets: "192 | 168 | 1 | 10"
-
-Tools Used
-
+- AWS EC2
 - Linux
-- PuTTY
+- Windows Server
+- Networking
+- Security Groups
 - SSH
+- RDP
+- IP Addressing
+- Server Configuration
+- Cloud Computing
+- AWS Services
+- Hands-on Troubleshooting
 
-Conclusion
+🎯 Objective
 
-The Linux networking commands were successfully used to identify and analyze the system's IP configuration.
+The purpose of this repository is to document my hands-on AWS learning journey and maintain a collection of my practical work and lab exercises.
+
+📂 Practical Tasks
+
+All practical task PDFs are uploaded to this repository and can be viewed individually.
+
+---
+
+AWS & Cloud Computing Practical Learning Repository
